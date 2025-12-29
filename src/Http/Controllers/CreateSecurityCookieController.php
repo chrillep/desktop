@@ -1,5 +1,7 @@
 <?php
 
+declare(strict_types=1);
+
 namespace Native\Desktop\Http\Controllers;
 
 use Illuminate\Http\Request;
